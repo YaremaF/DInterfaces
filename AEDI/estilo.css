@@ -1,0 +1,74 @@
+.card-text{
+    text-align: justify;
+}
+
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centrar-oferta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.h2{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Playfair Display', serif;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-boton{
+    text-align: center;
+}
+
+.body-reserva{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+form{
+    border: 1px solid rgb(255, 255, 255);
+}
+
+label{
+    color: aliceblue;
+}
+
+.custom-form{
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.custom-form input{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.custom-form .btn{
+    width: 100%;
+    background-color: black;
+    border-color: white;
+}
+
+.btn{
+    width: 100%;
+    background-color: black;
+    border-color: white;
+}
